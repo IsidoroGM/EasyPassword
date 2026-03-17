@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<easyPassword>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "EasyPassword.Application",
+            "projectName": "easyPassword",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
